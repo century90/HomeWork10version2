@@ -10,6 +10,7 @@ public class Radio {
     }
 
     public void setCurrentRadioStation(int newRadioStation) {
+
         currentRadioStation = newRadioStation;
     }
 
